@@ -1,0 +1,12 @@
+{
+  "name": "component-add-file",
+  "version": "0.0.1",
+  "description": "Add matching files to component.json",
+  "main": "index.js",
+  "bin": {
+    "component-add-file": "index.js"
+  },
+  "repository": "git@github.com:karlbohlmark/component-add-file.git",
+  "author": "Karl Böhlmark",
+  "license": "BSD"
+}
